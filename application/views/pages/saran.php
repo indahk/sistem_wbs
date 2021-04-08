@@ -3,7 +3,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Aspirasi</h2>
+          <h2>Sarane</h2>
 
 
           
